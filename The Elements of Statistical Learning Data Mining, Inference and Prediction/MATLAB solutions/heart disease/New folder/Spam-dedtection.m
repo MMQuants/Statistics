@@ -1,1 +1,0 @@
-importdata('spambase.data.csv');
